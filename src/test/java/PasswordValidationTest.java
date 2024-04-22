@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class testPasswordValidation {
+public class PasswordValidationTest {
 
     //Tests for the  1st. Method --------------------------
     @Test
